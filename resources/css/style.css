@@ -27,5 +27,10 @@ a {
 
 p {
     color: gray;
+    font-size: 21;
+}
+
+footer {
+    color: gray;
     text-align: right;
 }
